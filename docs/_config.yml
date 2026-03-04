@@ -1,5 +1,5 @@
 theme: minima
 title: "Game Research Archive"
 description: "個人のゲーム検証・考察アーカイブ"
-baseurl: ""
-url: ""
+baseurl: "/pj_game_archive"
+url: "https://york14.github.io"
