@@ -7,6 +7,7 @@
 ```
 pj_game_archive/
 ├── docs/                    ← 公開コンテンツ（GitHub Pages対象）
+│   ├── _config.yml          ← Jekyll設定（docs/がサイトルート）
 │   ├── index.md             ← トップページ（目次）
 │   ├── ake/                 ← Arknights: Endfield
 │   ├── ff14/                ← Final Fantasy XIV
@@ -15,9 +16,8 @@ pj_game_archive/
 ├── _private/                ← 非公開：検証用生データ・下書き
 │   ├── drafts/              ← 下書き・メモ
 │   └── raw_data/            ← 検証用の生データ
-├── _config.yml              ← Jekyll設定
 ├── .gitignore               ← _private/ を除外
-└── README.md                ← リポジトリ説明（非公開前提のメモ）
+└── README.md                ← リポジトリ説明
 ```
 
 ## 方針
