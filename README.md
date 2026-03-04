@@ -22,6 +22,6 @@ pj_game_archive/
 
 ## 方針
 - **docs/**: GitHub Pages公開対象。事実重視、シンプル、Markdownのみ
-- **foundation/**: AIとの作業用ドキュメント（非公開）
+- **foundation/**: 作業用ドキュメント（非公開）
 - **_private/**: 下書き・検証データ（.gitignoreで除外可能）
 - 記事は「書きたくなったとき」に追加。定期義務なし
