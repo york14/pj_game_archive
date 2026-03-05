@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "【FF14】ルアーアクションによる釣り待機時間変化の期待値計算モデル提案"
 date: 2026-03-06
 last_modified_at: 2026-03-06
