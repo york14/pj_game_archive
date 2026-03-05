@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "FF14: 天候パターンと出現条件"
+description: "エオルゼア時間に基づく天候遷移の法則性と出現条件の基礎"
+last_modified_at: "2026-03-04"
 ---
 
 # 天候パターンと出現条件

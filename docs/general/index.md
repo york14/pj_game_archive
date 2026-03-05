@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "汎用"
+title: "GENERAL"
 ---
 
 # 汎用・ゲーム横断
@@ -11,6 +11,6 @@ title: "汎用"
 
 | 記事 | 概要 | 更新日 |
 |---|---|---|
-| [乗算式 vs 加算式ダメージの比較](multiplicative_vs_additive.md) | ゲームにおけるダメージ計算の基本 | 2026-03-04 |
+| [乗算式 vs 加算式ダメージの比較](multiplicative_vs_additive.md) | ゲームにおけるダメージ計算の基本原理とビルド最適化への影響 | 2026-03-04 |
 
 [← トップへ戻る](../index.md)

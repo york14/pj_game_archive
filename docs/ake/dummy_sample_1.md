@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "AKE: dummy sample_1"
+description: "エンドフィールドにおけるビルド比較用のダミーサンプル記事"
+last_modified_at: "2026-03-04"
 ---
 
 # dummy sample_1
