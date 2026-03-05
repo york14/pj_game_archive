@@ -16,15 +16,13 @@ title: Home
 
 | 記事 | 概要 |
 |---|---|
-| [ダメージ計算式の全体像](ake/damage_formula_overview.md) | 15項の独立乗算モデル |
-| [アイビーエナ雷槍ビルド比較](ake/ivyena_thunder_build.md) | 装備・バフ構成の差分検証 |
+| [dummy_sample_1](ake/dummy_sample_1.md) | dummy dummy dummy |
 
 ### [Final Fantasy XIV](ff14/)
 FF14の釣り・ギャザラー関連の検証。
 
 | 記事 | 概要 |
 |---|---|
-| [伝説魚の釣果率と再抽選](ff14/legendary_fish_recast.md) | 再抽選プロセスの影響度 |
 | [天候パターンと出現条件](ff14/weather_pattern_analysis.md) | 天候遷移の法則性 |
 
 ### [汎用・ゲーム横断](general/)

@@ -32,7 +32,7 @@ Damage = Base × (1 + A) × (1 + B) × (1 + C)
 
 | ゲーム | 方式 | 備考 |
 |---|---|---|
-| Arknights: Endfield | 乗算（15項） | 各倍率項が独立 |
+| Arknights: Endfield | 乗算 | 各倍率項が独立 |
 | Path of Exile | 加算+乗算の混合 | カテゴリ内加算、カテゴリ間乗算 |
 | Genshin Impact | 乗算ベース | ATK/DMG Bonus/Crit が独立 |
 
