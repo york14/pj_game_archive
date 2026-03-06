@@ -7,10 +7,8 @@ title: Home
 
 ---
 
-## 📂 [Arknights: Endfield]({{ '/ake/' | relative_url }})
+##  [Arknights: Endfield]({{ '/ake/' | relative_url }})
 *エンドフィールドのダメージ計算、キャラクター性能検証など。*
-
-<br>
 
 | 記事 | 概要 |
 |---|---|
@@ -20,10 +18,8 @@ title: Home
 
 ---
 
-## 📂 [Final Fantasy XIV]({{ '/ff14/' | relative_url }})
+##  [Final Fantasy XIV]({{ '/ff14/' | relative_url }})
 *FF14の釣り・ギャザラー関連の検証。*
-
-<br>
 
 | 記事 | 概要 |
 |---|---|
@@ -33,10 +29,9 @@ title: Home
 
 ---
 
-## 📂 [汎用・ゲーム横断]({{ '/general/' | relative_url }})
+##  [汎用・ゲーム横断]({{ '/general/' | relative_url }})
 *ゲームデザインの共通パターンやツール活用法。*
 
-<br>
 
 | 記事 | 概要 |
 |---|---|
