@@ -13,7 +13,7 @@ title: Home
 <br>
 
 | 記事 | 概要 |
-| :--- | :--- |
+|---|---|
 | **[AKE: dummy sample_1]({{ '/ake/dummy_sample_1' | relative_url }})** | エンドフィールドにおけるビルド比較用のダミーサンプル記事 |
 
 <br>
@@ -26,9 +26,9 @@ title: Home
 <br>
 
 | 記事 | 概要 |
-| :--- | :--- |
-| **[【FF14】期待値計算モデル提案]({{ '/ff14/ff14_fishing_expected_bitetime' | relative_url }})** | ルアーアクションの「持ち越し（クリップ）」を考慮した正確な待機時間の算出。 |
-| **[FF14: 天候パターンと出現条件]({{ '/ff14/weather_pattern_analysis' | relative_url }})** | エオルゼア時間に基づく天候遷移の法則性と出現条件の基礎。 |
+|---|---|
+| **[【FF14】ルアーアクションによる釣り待機時間変化の期待値計算モデル提案]({{ '/ff14/ff14_fishing_expected_bitetime' | relative_url }})** | ルアーアクション使用時に発生するヒット時間の持ち越し（クリップ）を考慮した、より正確な待機時間の期待値計算モデルとその導出について解説します。 |
+| **[FF14: 天候パターンと出現条件]({{ '/ff14/weather_pattern_analysis' | relative_url }})** | エオルゼア時間に基づく天候遷移の法則性と出現条件の基礎 |
 
 <br>
 
@@ -40,8 +40,8 @@ title: Home
 <br>
 
 | 記事 | 概要 |
-| :--- | :--- |
-| **[乗算式 vs 加算式]({{ '/general/multiplicative_vs_additive' | relative_url }})** | ダメージ計算の基本原理とビルド最適化への影響。 |
+|---|---|
+| **[乗算式 vs 加算式ダメージの比較]({{ '/general/multiplicative_vs_additive' | relative_url }})** | ゲームにおけるダメージ計算の基本原理とビルド最適化への影響 |
 
 <br>
 

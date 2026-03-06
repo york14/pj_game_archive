@@ -11,6 +11,6 @@ title: "AKE"
 
 | 記事 | 概要 | 更新日 |
 |---|---|---|
-| [AKE: dummy sample_1](dummy_sample_1.md) | エンドフィールドにおけるビルド比較用のダミーサンプル記事 | 2026-03-04 |
+| [AKE: dummy sample_1]({{ 'ake/dummy_sample_1' | relative_url }}) | エンドフィールドにおけるビルド比較用のダミーサンプル記事 | 2026-03-04 |
 
-[← トップへ戻る](../index.md)
+[← トップへ戻る]({{ '/' | relative_url }})
