@@ -1,8 +1,18 @@
-remote_theme: just-the-docs/just-the-docs
-plugins:
-  - jekyll-remote-theme
-  - jekyll-sitemap
+# Jekyll Configuration for Chirpy Theme
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+# Site settings
+lang: ja
+timezone: Asia/Tokyo
 title: "Game Research Archive"
 description: "個人のゲーム検証・考察アーカイブ"
 baseurl: "/pj_game_archive"
 url: "https://york14.github.io"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+# Chirpy specific
+math: true
