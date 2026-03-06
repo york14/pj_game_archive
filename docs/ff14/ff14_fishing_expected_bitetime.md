@@ -6,6 +6,7 @@ last_modified_at: 2026-03-06
 description: "ルアーアクション使用時に発生するヒット時間の持ち越し（クリップ）を考慮した、より正確な待機時間の期待値計算モデルとその導出について解説します。"
 categories: [FF14, 釣り, データ解析]
 tags: [数理モデル]
+math: true
 ---
 
 # ff14_fishing_expected_bitetime.md
