@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Game Research Archive
+# Game Archive
 
 個人のゲーム検証・考察を、事実重視でシンプルにまとめたアーカイブです。
 
