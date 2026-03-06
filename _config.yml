@@ -1,5 +1,4 @@
-# Jekyll Configuration for Chirpy Theme
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 # Site settings
 lang: ja
@@ -11,8 +10,8 @@ url: "https://york14.github.io"
 
 # Plugins
 plugins:
-  - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-include-cache
 
 # Chirpy specific
 math: true
