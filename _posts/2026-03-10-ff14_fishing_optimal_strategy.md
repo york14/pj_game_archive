@@ -6,7 +6,6 @@ categories: [FF14, 釣り]
 tags: []
 math: true
 mermaid: false
-permalink: /ff14/ff14_fishing_optimal_strategy/
 ---
 
 制限時間内に、どれだけ狙った魚を釣り上げられるか。

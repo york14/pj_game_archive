@@ -6,7 +6,6 @@ categories: [FF14, 釣り]
 tags: []
 math: true
 mermaid: true
-permalink: /ff14/ff14_fishing_expected_bitetime/
 ---
 
 ルアーアクション使用時に発生するヒット時間の持ち越し（クリップ）を考慮した、より正確な待機時間の期待値計算モデルとその導出について解説します。

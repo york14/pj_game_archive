@@ -5,7 +5,6 @@ description: "エンドフィールドにおけるビルド比較用のダミー
 date: 2026-03-04 12:00:00 +0900
 categories: [AKE]
 tags: []
-permalink: /ake/dummy_sample_1/
 ---
 
 ## 概要

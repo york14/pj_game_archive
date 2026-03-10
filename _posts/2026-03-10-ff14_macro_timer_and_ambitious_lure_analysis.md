@@ -5,7 +5,6 @@ date: 2026-03-10 21:00:00 +0900
 categories: [FF14, 釣り]
 tags: []
 math: true
-permalink: /ff14/ff14_macro_timer_and_ambitious_lure_analysis/
 ---
 
 FF14の釣りにおける「ゲーム内マクロ(`<wait.X>`)の待機時間機能の実時間とのズレ」および「アンビシャスルアー使用後に発生するヒット空白時間」について、動画のフレーム解析を用いた検証結果をまとめます。

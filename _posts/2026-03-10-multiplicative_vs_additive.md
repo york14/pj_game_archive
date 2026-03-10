@@ -3,10 +3,9 @@ layout: post
 title: "乗算式 vs 加算式ダメージの比較"
 description: "ゲームにおけるダメージ計算の基本原理とビルド最適化への影響"
 date: 2026-03-04 12:00:00 +0900
-categories: [GameDesign, 分析]
+categories: [General, GameDesign, 分析]
 tags: [ダメージ計算]
 math: true
-permalink: /general/multiplicative_vs_additive/
 ---
 
 ## 概要
