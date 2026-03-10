@@ -1,0 +1,1 @@
+# standard jekyll posts directory
