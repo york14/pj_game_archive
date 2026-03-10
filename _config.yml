@@ -13,10 +13,6 @@ url: "https://york14.github.io"
 plugins:
   - jekyll-sitemap
   - jekyll-include-cache
-  - jekyll-paginate
-# Pagination
-paginate: 10
-paginate_path: /page:num/
 
 # Chirpy specific
 math: true
