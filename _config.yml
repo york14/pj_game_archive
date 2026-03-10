@@ -13,9 +13,14 @@ url: "https://york14.github.io"
 plugins:
   - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll-paginate
 
 # Chirpy specific
 math: true
+
+# Pagination (pluginsの下あたりに追記)
+paginate: 10
+paginate_path: /page:num/
 
 # サイドバーのアバター（ホーム画面）
 avatar: /assets/img/home.jpg
