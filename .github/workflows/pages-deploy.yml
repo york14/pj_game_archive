@@ -24,16 +24,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+        uses: actions/checkout@v5        # v4 → v5（Node24対応）
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5        # v4 → v5
+        uses: actions/configure-pages@v5  # v4 → v5（前回対応済み）
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@v1          # v1のまま（浮動タグで自動更新）
         with:
           ruby-version: 3.2
           bundler-cache: true
@@ -43,7 +41,7 @@ jobs:
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4  # v3 → v4
+        uses: actions/upload-pages-artifact@v4  # v3 → v4（前回対応済み）
 
   deploy:
     environment:
