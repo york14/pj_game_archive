@@ -17,7 +17,7 @@ social:
     - https://www.youtube.com/channel/UCtV3aiRUd_MbcuVLz3QEcUA
 
 avatar: /assets/img/home.jpg
-image: /assets/img/posts.jpg
+image: https://york14.github.io/pj_game_archive/assets/img/posts.jpg
 
 plugins:
   - jekyll-sitemap
