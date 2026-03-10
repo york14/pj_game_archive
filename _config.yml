@@ -4,6 +4,18 @@ theme: jekyll-theme-chirpy
 lang: ja
 timezone: Asia/Tokyo
 title: "Game Research Archive"
+description: "個人のゲームアーカイブ"
+baseurl: "/pj_game_archive"
+url: "https://york14.github.io"
+
+# Plugins
+plugins:
+theme: jekyll-theme-chirpy
+
+# Site settings
+lang: ja
+timezone: Asia/Tokyo
+title: "Game Research Archive"
 description: "個人のゲーム検証・考察アーカイブ"
 baseurl: "/pj_game_archive"
 url: "https://york14.github.io"
@@ -15,3 +27,13 @@ plugins:
 
 # Chirpy specific
 math: true
+
+# サイドバーのアバター（ホーム画面）
+avatar: /assets/img/home.jpg
+
+# 著者情報（デフォルトで by York14 と表示されるようにする）
+author: York14
+
+# デフォルトのOGP画像（各記事で未設定時に使われるアイキャッチ）
+seo:
+  image: /assets/img/posts.jpg
