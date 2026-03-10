@@ -1,36 +1,27 @@
 theme: jekyll-theme-chirpy
 
-# Site settings
 lang: ja
 timezone: Asia/Tokyo
 future: true
 title: "Game Research Archive"
+tagline: "個人のゲームアーカイブ"
 description: "個人のゲームアーカイブ"
 baseurl: "/pj_game_archive"
 url: "https://york14.github.io"
 
-# Plugins
-plugins:
-  - jekyll-sitemap
-  - jekyll-include-cache
-  - jekyll-paginate
-
-# Chirpy specific
-math: true
-
-# Pagination (pluginsの下あたりに追記)
-paginate: 10
-paginate_path: /page:num/
-
-# URL Format
-permalink: /posts/:title/
-
-# サイドバーのアバター（ホーム画面）
-avatar: /assets/img/home.jpg
-
-# サイトの基本著者情報（デフォルトの著者名、コピーライトに使用されます）
 social:
   name: York14
-# デフォルトのOGP画像（各記事で未設定時に使われるアイキャッチ）
-seo:
-  image: /assets/img/posts.jpg
+  email: ""
+  links: []
+
+avatar: /assets/img/home.jpg
+image: /assets/img/posts.jpg
+
+plugins:
+  - jekyll-sitemap
+
+math: true
+
+paginate: 10
+paginate_path: "/page:num/"
+permalink: /posts/:title/
