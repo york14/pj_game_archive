@@ -27,3 +27,9 @@ math: true
 paginate: 10
 paginate_path: "/page:num/"
 permalink: /posts/:title/
+
+defaults:                        # ← これを追加
+  - scope:
+      path: "_tabs"
+    values:
+      permalink: /:basename/
