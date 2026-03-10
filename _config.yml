@@ -22,6 +22,9 @@ math: true
 paginate: 10
 paginate_path: /page:num/
 
+# URL Format
+permalink: /posts/:title/
+
 # サイドバーのアバター（ホーム画面）
 avatar: /assets/img/home.jpg
 
