@@ -12,7 +12,9 @@ url: "https://york14.github.io"
 social:
   name: York14
   email: ""
-  links: []
+  links:
+    - https://twitter.com/m_syj
+    - https://www.youtube.com/channel/UCtV3aiRUd_MbcuVLz3QEcUA
 
 avatar: /assets/img/home.jpg
 image: /assets/img/posts.jpg
