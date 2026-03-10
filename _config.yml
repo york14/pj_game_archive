@@ -10,18 +10,6 @@ url: "https://york14.github.io"
 
 # Plugins
 plugins:
-theme: jekyll-theme-chirpy
-
-# Site settings
-lang: ja
-timezone: Asia/Tokyo
-title: "Game Research Archive"
-description: "個人のゲーム検証・考察アーカイブ"
-baseurl: "/pj_game_archive"
-url: "https://york14.github.io"
-
-# Plugins
-plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
