@@ -3,6 +3,7 @@ theme: jekyll-theme-chirpy
 # Site settings
 lang: ja
 timezone: Asia/Tokyo
+future: true
 title: "Game Research Archive"
 description: "個人のゲームアーカイブ"
 baseurl: "/pj_game_archive"
@@ -12,6 +13,10 @@ url: "https://york14.github.io"
 plugins:
   - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll-paginate
+# Pagination
+paginate: 10
+paginate_path: /page:num/
 
 # Chirpy specific
 math: true
