@@ -28,10 +28,9 @@ permalink: /posts/:title/
 # サイドバーのアバター（ホーム画面）
 avatar: /assets/img/home.jpg
 
-# 著者情報（デフォルトで by と表示されるようにする）
-author:
+# サイトの基本著者情報（デフォルトの著者名、コピーライトに使用されます）
+social:
   name: York14
-
 # デフォルトのOGP画像（各記事で未設定時に使われるアイキャッチ）
 seo:
   image: /assets/img/posts.jpg
