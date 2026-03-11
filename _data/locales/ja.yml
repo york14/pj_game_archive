@@ -8,11 +8,10 @@ tabs:
   about: About
 
 post:
-  written_by: "作成者:"
   read_time: "分で読めます"
   words: "文字"
   pin: "ピン留め"
-  updated: "更新"
+  updated: "Updated "
   relate_posts: "関連記事"
   changelog: "変更履歴"
 
