@@ -6,10 +6,6 @@ categories: [FF14, 釣り]
 tags: []
 math: true
 mermaid: true
-image:
-  path: /assets/img/posts.jpg
-  alt: miru game archive
-
 ---
 
 ルアーアクション使用時に発生するヒット時間の持ち越し（クリップ）を考慮した、より正確な待機時間の期待値計算モデルとその導出について解説します。
