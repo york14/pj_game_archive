@@ -8,24 +8,26 @@ tabs:
   about: About
 
 post:
+  written_by: "By "
   read_time: "分で読めます"
   words: "文字"
   pin: "ピン留め"
   updated: "Updated "
-  relate_posts: "関連記事"
-  changelog: "変更履歴"
+  relate_posts: "relate_posts"
+  changelog: "changelog"
+  date: "date"
 
 panel:
-  lastmod: "最近の更新"
-  trending_tags: "人気のタグ"
+  lastmod: "lastmod"
+  trending_tags: "trending_tags"
 
 meta:
-  no_comments: "コメントはありません"
-  comments: "コメント"
+  no_comments: "no_comments"
+  comments: "comments"
 
 page:
-  category: "カテゴリー"
-  tag: "タグ"
+  category: "category"
+  tag: "tag"
 
 search:
   hint: "検索する..."
