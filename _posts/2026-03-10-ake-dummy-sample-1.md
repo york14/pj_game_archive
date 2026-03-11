@@ -2,7 +2,7 @@
 layout: post
 title: "AKE: dummy sample_1"
 description: "エンドフィールドにおけるビルド比較用のダミーサンプル記事"
-ｃ: 2026-03-01 12:00:00 +0900
+date: 2026-03-01 12:00:00 +0900
 categories: [AKE]
 tags: []
 ---
