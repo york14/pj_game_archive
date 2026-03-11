@@ -1,8 +1,8 @@
 ---
-layout: about
-icon: "fas fa-info-circle"
+# the default layout is 'page'
+icon: fas fa-info-circle
 order: 4
 ---
-# Game Research Archive
 
-個人のゲーム検証・考察アーカイブ。
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }

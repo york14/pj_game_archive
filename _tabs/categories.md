@@ -1,6 +1,5 @@
 ---
 layout: categories
-icon: "fas fa-folder-open"
+icon: fas fa-stream
 order: 1
-permalink: /categories/
 ---

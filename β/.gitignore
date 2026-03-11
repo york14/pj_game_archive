@@ -1,0 +1,7 @@
+# 非公開コンテンツ（opsリポジトリに移動済み）
+foundation/
+_private/
+
+# その他
+.DS_Store
+Thumbs.db
