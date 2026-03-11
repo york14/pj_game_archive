@@ -21,6 +21,18 @@ image: https://york14.github.io/pj_game_archive/assets/img/posts.jpg
 
 plugins:
   - jekyll-sitemap
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 math: true
 
@@ -28,7 +40,7 @@ paginate: 10
 paginate_path: "/page:num/"
 permalink: /posts/:title/
 
-defaults:                        # ← これを追加
+defaults:
   - scope:
       path: "_tabs"
     values:
