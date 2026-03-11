@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【FF14】ルアーアクションによる釣り待機時間変化の期待値計算モデル提案"
+title: "【FF14】dummy sample"
 categories: [FF14, 釣り]
 tags: [game]
 math: true
