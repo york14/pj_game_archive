@@ -16,10 +16,10 @@ timezone: Asia/Tokyo
 
 title: MIRU GAME ARCHIVE # the main title
 
-tagline: 個人のゲーム検証・考察アーカイブ # it will display as the subtitle
+tagline: 個人のゲームプレイアーカイブ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  FF14、アークナイツエンドフィールドなどのゲームシステムの検証や考察データをアーカイブする個人ブログです。
+  FF14、アークナイツエンドフィールドなどのゲームプレイの記録や、システム検証・考察をアーカイブする個人ブログです。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
