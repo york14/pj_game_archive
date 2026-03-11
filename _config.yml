@@ -40,10 +40,17 @@ paginate: 10
 paginate_path: "/page:num/"
 permalink: /posts/:title/
 
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
 defaults:
   - scope:
-      path: "_tabs"
+      path: ""
+      type: tabs
     values:
+      layout: page
       permalink: /:basename/
 
 category_archive:
