@@ -3,8 +3,8 @@ layout: post
 title: "乗算式 vs 加算式ダメージの比較"
 description: "ゲームにおけるダメージ計算の基本原理とビルド最適化への影響"
 date: 2026-03-04 12:00:00 +0900
-categories: [General, GameDesign, 分析]
-tags: [ダメージ計算]
+categories: [General]
+tags: []
 math: true
 ---
 
