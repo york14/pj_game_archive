@@ -6,6 +6,9 @@ categories: [FF14, 釣り]
 tags: []
 math: true
 mermaid: true
+image:
+  path: /assets/img/posts.jpg
+  alt: miru game archive
 
 ---
 
