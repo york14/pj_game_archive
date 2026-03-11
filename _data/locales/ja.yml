@@ -1,65 +1,84 @@
-# Jekyll Chirpy Theme - Japanese Localization
-# Mapped to english tabs per user request, but maintaining full translation tree for other UI elements.
-tabs:
-  home: HOME
-  categories: Categories
-  tags: Tags
-  archives: Archives
-  about: About
+# The layout text of site
 
-post:
-  written_by: "By "
-  read_time: "分で読めます"
-  words: "文字"
-  pin: "ピン留め"
-  updated: "Updated "
-  relate_posts: "relate_posts"
-  changelog: "changelog"
-  date: "date"
+# ----- Commons label -----
+
+layout:
+  post: 投稿
+  category: カテゴリー
+  tag: タグ
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: ホーム
+  categories: カテゴリー
+  tags: タグ
+  archives: アーカイブ
+  about: このサイトについて
+
+# the text displayed in the search bar & search results
+search:
+  hint: 検索
+  cancel: キャンセル
+  no_results: 該当なし
 
 panel:
-  lastmod: "lastmod"
-  trending_tags: "trending_tags"
+  lastmod: 最近更新された投稿
+  trending_tags: トレンドのタグ
+  toc: コンテンツ
 
-meta:
-  no_comments: "no_comments"
-  comments: "comments"
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: この投稿は投稿者によって :LICENSE_NAME の下でライセンスされています。
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
 
-page:
-  category: "category"
-  tag: "tag"
+  # Displayed in the footer
+  brief: Some rights reserved.
+  verbose: >-
+    Except where otherwise noted, the blog posts on this site are licensed
+    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
 
-search:
-  hint: "検索する..."
-  cancel: "キャンセル"
-  no_results: "見つかりませんでした"
-  article_result: "件の記事が見つかりました"
-  article_results: "件の記事が見つかりました"
+meta: :PLATFORM 用の :THEME を使用しています。
 
-tag:
-  # The symbol before tag name
-  symbol: "#"
+not_found:
+  statement: このURLは存在しないものを指し示しています。
 
-locales:
-  en: "English"
-  ja: "日本語"
-  zh-CN: "简体中文"
-  zh-TW: "繁體中文"
-  ko: "한국어"
-  es: "Español"
-  fr: "Français"
-  ru: "Русский"
-  pt-BR: "Português (Brasil)"
-  de: "Deutsch"
-  tr: "Türkçe"
-  vi: "Tiếng Việt"
-  hi: "हिन्दी"
-  ar: "العربية"
-  id: "Bahasa Indonesia"
-  th: "ไทย"
-  ur: "اردو"
+notification:
+  update_found: 新しいバージョンが利用可能です。
+  update: 更新
 
-msg:
-  copy_success: "コピーしました"
-  copy_error: "コピーに失敗しました"
-  copy_tooltip: "クリップボードにコピー"
+# ----- Posts related labels -----
+
+post:
+  written_by: 投稿者
+  posted: 投稿日
+  updated: 更新日
+  words: 語
+  pageview_measure: 回閲覧
+  read_time:
+    unit: 分
+    prompt: で読めます
+  relate_posts: さらに読む
+  share: シェア
+  button:
+    next: 次
+    previous: 前
+    copy_code:
+      succeed: コピーしました
+    share_link:
+      title: リンクをコピー
+      succeed: リンクをコピーしました
+
+# Date time format.
+# See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+df:
+  post:
+    strftime: "%Y/%m/%d"
+    dayjs: "YYYY/MM/DD"
+
+# categories page
+categories:
+  category_measure: カテゴリー
+  post_measure: 投稿
