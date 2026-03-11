@@ -50,7 +50,7 @@ defaults:
       type: tabs
     values:
       layout: page
-      permalink: /:basename/
+      permalink: /:title/
 
 category_archive:
   type: liquid
