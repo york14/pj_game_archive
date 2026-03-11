@@ -1,0 +1,30 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// 1. まず標準のChirpyテーマのCSSを読み込みます
+@import 'chirpy';
+
+// 2. その後でフォントを自分好みに上書きします
+:root {
+  // ■ サイト全体の基本フォント（日本語メイン）
+  // おすすめ構成: 
+  // 1. Windows用の綺麗な游ゴシック
+  // 2. Mac/iOS用の綺麗なヒラギノ
+  // 3. その他モダンなゴシック体（Noto Sans JPなど）
+  --font-family-base: "Helvetica Neue", "Segoe UI", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", "Meiryo", sans-serif;
+
+  // ■ 見出し（H1, H2など）のフォント
+  // 見出しだけ少し太め・ゴツめのフォントにする設定も可能です。基本と同じでよければbaseと同じにします。
+  --font-family-heading: var(--font-family-base);
+
+  // ■ プログラミングコード（```で囲んだブロック）のフォント
+  // 「0」と「O」、「1」と「l」のような見分けがつきやすい等幅フォント
+  --font-family-monospace: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+// ■ 数式ブロック（MathJax）のフォント微調整
+// 数式は基本的にはMathJaxの専用フォント（TeX）で描画されますが、地の文と混ざる時のバランスを整えます
+.MathJax {
+  font-size: 1.05em !important; // 数式が少し小さく見えるのを補正
+}
