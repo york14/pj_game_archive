@@ -1,32 +1,37 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
-// 1. 標準のChirpyテーマのCSSを読み込みます（ここでproductionやdevelopment環境を自動認識）
+--- # Only the main Sass file needs front matter (the dashes are enough) --- // 1. 標準のChirpyテーマのCSSを読み込みます
 @import 'main{% if jekyll.environment == "production" %}.bundle{% endif %}';
 
-// 2. フォントと文字組みの上書き設定
-:root {
-  // ■ サイト全体の基本フォント（最新v7用変数: --font-family-base）
-  // Noto Sans JP をWindows/Mac問わず優先し、無い場合はOS内蔵の綺麗な日本語フォントを当てる
-  --font-family-base: 'Inter', 'Noto Sans JP', "Helvetica Neue", "Segoe UI", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", "Meiryo", sans-serif;
+// 2. 最終出力されるCSS要素に対して、直接フォントを強制上書き（!important）します
 
-  // ■ 見出しのフォント設定（基本フォントと同じにする）
-  --font-family-heading: var(--font-family-base);
-
-  // ■ プログラミングコード用のフォント
-  --font-family-monospace: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+/* サイト全体の基本フォント（日本語メイン） */
+body {
+    font-family: 'Inter', 'Noto Sans JP', "Helvetica Neue", "Segoe UI", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", "Meiryo", sans-serif !important;
 }
 
-// ■ 以下、ご提示いただいた素晴らしい調整アイディアを適用
+/* 見出しのフォント設定 */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Inter', 'Noto Sans JP', "Helvetica Neue", "Segoe UI", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", "Meiryo", sans-serif !important;
+}
+
+/* プログラミングコード用の等幅フォント */
+code,
+pre,
+.highlight {
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace !important;
+}
 
 /* 記事本文の読みやすさを調整（文字詰めと字間調整） */
 article {
-  font-feature-settings: "palt"; /* 文字詰めを有効にして日本語を美しく */
-  letter-spacing: 0.03em;       /* わずかに字間を広げて可読性向上 */
+    font-feature-settings: "palt" !important;
+    letter-spacing: 0.03em !important;
 }
 
-// ■ 数式ブロック（MathJax）のフォント微調整
+/* 数式ブロック（MathJax）のフォント微調整 */
 .MathJax {
-  font-size: 1.05em !important; // 数式が少し小さく見えるのを補正
+    font-size: 1.05em !important;
 }
