@@ -4,7 +4,7 @@ author: York14
 date: 2026-04-20 14:00:00 +0900
 categories: [Endfield, Factory]
 tags: [集成工業, バランスシート]
-pin: true
+pin: false
 math: true
 mermaid: true
 toc: true
