@@ -1,4 +1,4 @@
-  ---
+---
 title: 【AKE】ゾアン・ファンイ 戦技「驚雷訣」のダメージ計算モデルと仕様検証
 date: 2026-04-27 19:10:00 +0900
 categories: [Endfield, Combat]
