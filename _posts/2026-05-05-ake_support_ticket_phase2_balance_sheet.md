@@ -15,9 +15,10 @@ description: "「集成支援・小さな救いの星」イベント第2期報�
 
 ## 第1部：バランスシートの調整
 
-第2期用のバランスシートのベースは、以下の「2026年4月17日アプデ対応版」を使用し、イベント納品用の調整を加えています。
+今回も、以前公開した[2026年4月17日アプデ対応版のバランスシート](https://york14.github.io/pj_game_archive/posts/ake_wuling_factory_balance_sheet_v2/)をベースに、支援成果券を並行して稼ぐための調整を加えました。
 
-[2026年4月17日アプデ対応版のバランスシート](https://york14.github.io/pj_game_archive/posts/ake_wuling_factory_balance_sheet_v2/)
+
+[集成支援・小さな救いの星 第2期バランスシート](https://docs.google.com/spreadsheets/d/e/2PACX-1vSgroOFERPJJWGHrvR-khVP10sFDWb2HaPxf5ToDHbiHskQz9MPXfd6QoCLBGPKawd2JWRLrckAC8Ga/pubhtml?gid=75236321&single=true)
 
 ### 調整のポイント
 調整の考え方は第1期と同様です。
@@ -26,6 +27,10 @@ description: "「集成支援・小さな救いの星」イベント第2期報�
 *   **素材の転換**: 本来「緋銅部品」の生産に使っていた「緋銅塊」を、そのまま「息壌玉ひょうたん」の生産ラインへ転用する。
 
 この調整により、既存設備の最小限の改修で対応が可能です。武陵取引券も余剰が出る設計となっており、イベントノルマの達成には十分な余裕があります。
+
+※簡略化のため、装備部品の生産は止めています。
+　取引券・成果券ともに余裕があるため、目標達成後に元のベースに戻すとシンプルです。
+　また、素材には余りがあるため、いくらか装備部品用のラインに流すことで、引き続き装備部品の生産も可能です。
 
 ---
 
