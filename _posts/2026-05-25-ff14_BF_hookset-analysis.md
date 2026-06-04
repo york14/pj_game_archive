@@ -1,6 +1,6 @@
 ---
 title: "【FF14】ヌシとその元の魚のフッキング比較"
-author: York14
+
 date: 2026-05-25 18:00:00 +0900
 categories: [FF14, 釣り]
 tags: [データ分析]

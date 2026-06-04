@@ -1,6 +1,6 @@
 ---
 title: "集成支援・小さな救いの星_支援成果券用バランスシートと1期交換シミュレート"
-author: York14
+
 date: 2026-04-28 17:00:00 +0900
 categories: [Endfield, Factory]
 tags: [集成工業, バランスシート]

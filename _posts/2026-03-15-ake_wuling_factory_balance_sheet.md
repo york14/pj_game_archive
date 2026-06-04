@@ -1,6 +1,6 @@
 ---
 title: "【AKE】武陵集成工業バランスシート_2026年3月12日アプデ対応版"
-author: York14
+
 date: 2026-03-15 20:45:00 +0900
 categories: [Endfield, Factory]
 tags: [集成工業, バランスシート]

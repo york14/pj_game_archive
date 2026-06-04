@@ -1,6 +1,6 @@
 ---
 title: "【AKE】オペレーターペリカの連携技による感電効果に関する検証"
-author: York14
+
 date: 2026-03-31 16:40:00 +0900
 categories: [Endfield, Combat]
 tags: [戦闘, 数値検証]
