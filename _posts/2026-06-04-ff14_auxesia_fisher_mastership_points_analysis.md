@@ -93,7 +93,7 @@ $$
 誤差を考慮すると、安全に上限を狙うための目安としては、**「評価値231,000以上」**を目標値としておすすめします。
 
 #### 2. 評価値に対する技巧点のプロット図
-<div style="max-width: 700px; margin: 2rem auto;">
+<div style="max-width: 700px; margin: 2rem auto; background-color: #f8f9fa; padding: 1rem; border-radius: 8px;">
   <canvas id="mission1Chart"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -195,7 +195,7 @@ $\text{技巧点} \approx 0.0073 \times \text{評価値} + 376.35$
 推測式の誤差を考慮すると、安全に上限を狙うための目安としては、**「評価値158,600以上」**を目標値とします。
 
 #### 2. 評価値に対する技巧点のプロット図
-<div style="max-width: 700px; margin: 2rem auto;">
+<div style="max-width: 700px; margin: 2rem auto; background-color: #f8f9fa; padding: 1rem; border-radius: 8px;">
   <canvas id="mission2Chart"></canvas>
 </div>
 <script>
