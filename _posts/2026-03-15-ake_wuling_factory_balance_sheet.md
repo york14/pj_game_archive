@@ -1,5 +1,5 @@
 ---
-title: "【AKE】武陵集成工業バランスシート_2026年3月12日アプデ対応版"
+title: "【Endfield】武陵集成工業バランスシート_2026年3月12日アプデ対応版"
 
 date: 2026-03-15 20:45:00 +0900
 categories: [Endfield, Factory]
@@ -39,7 +39,7 @@ description: 2026年3月12日のアップデートによる「汚水」の仕様
 
 ### スプレッドシート・リンク
 今回作成した、管理シートです。
-[【AKE】武陵工業バランスシート (Googleスプレッドシート)](https://docs.google.com/spreadsheets/d/1QfYLxvuur2ZY8Rjl35_N_eR-8T17bceEETXz9OMsDh4/edit?usp=sharing)
+[【endfield】武陵工業バランスシート (Googleスプレッドシート)](https://docs.google.com/spreadsheets/d/1QfYLxvuur2ZY8Rjl35_N_eR-8T17bceEETXz9OMsDh4/edit?usp=sharing)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "集成支援・小さな救いの星_支援成果券用バランスシートと1期交換シミュレート"
+title: "【Endfield】集成支援・小さな救いの星_支援成果券用バランスシートと1期交換シミュレート"
 
 date: 2026-04-28 17:00:00 +0900
 categories: [Endfield, Factory]
@@ -17,9 +17,9 @@ description: "「集成支援・小さな救いの星」における武陵取引
 
 ## 第1部：武陵取引券バランスシート（イベント調整版）
 
-イベント期間中も基本的な「武陵取引券」の納品は続きます。今回は、以前公開した[2026年4月17日アプデ対応版のバランスシート](https://york14.github.io/pj_game_archive/posts/ake_wuling_factory_balance_sheet_v2/)をベースに、支援成果券を並行して稼ぐための調整を加えました。
+イベント期間中も基本的な「武陵取引券」の納品は続きます。今回は、以前公開した[2026年4月17日アプデ対応版のバランスシート](https://york14.github.io/pj_game_archive/posts/endfield_wuling_factory_balance_sheet_v2/)をベースに、支援成果券を並行して稼ぐための調整を加えました。
 
-[【AKE】武陵取引券・支援成果券用バランスシート (Googleスプレッドシート)](https://docs.google.com/spreadsheets/d/1ird8wAm7ea3SoUNlXPHjb9jHe6GxM7guTRvCZGJ8K-Q/edit?gid=0#gid=0)
+[【endfield】武陵取引券・支援成果券用バランスシート (Googleスプレッドシート)](https://docs.google.com/spreadsheets/d/1ird8wAm7ea3SoUNlXPHjb9jHe6GxM7guTRvCZGJ8K-Q/edit?gid=0#gid=0)
 
 ### 調整のポイントと特徴
 

@@ -1,5 +1,5 @@
 ---
-title: 【AKE】危機契約 牽制 の対象になる状態について
+title: 【Endfield】危機契約 牽制 の対象になる状態について
 date: 2026-06-19 21:50:00 +0900
 categories: [Endfield, Combat]
 tags: [戦闘, 動作検証]

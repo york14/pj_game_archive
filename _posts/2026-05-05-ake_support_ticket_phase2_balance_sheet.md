@@ -1,5 +1,5 @@
 ---
-title: "集成支援・小さな救いの星_支援成果券用バランスシートと2期交換シミュレート"
+title: "【Endfield】集成支援・小さな救いの星_支援成果券用バランスシートと2期交換シミュレート"
 
 date: 2026-05-05 16:35:00 +0900
 categories: [Endfield, Factory]
@@ -15,7 +15,7 @@ description: "「集成支援・小さな救いの星」イベント第2期報�
 
 ## 第1部：バランスシートの調整
 
-今回も、以前公開した[2026年4月17日アプデ対応版のバランスシート](https://york14.github.io/pj_game_archive/posts/ake_wuling_factory_balance_sheet_v2/)をベースに、支援成果券を並行して稼ぐための調整を加えました。
+今回も、以前公開した[2026年4月17日アプデ対応版のバランスシート](https://york14.github.io/pj_game_archive/posts/endfield_wuling_factory_balance_sheet_v2/)をベースに、支援成果券を並行して稼ぐための調整を加えました。
 
 
 [集成支援・小さな救いの星 第2期バランスシート](https://docs.google.com/spreadsheets/d/e/2PACX-1vSgroOFERPJJWGHrvR-khVP10sFDWb2HaPxf5ToDHbiHskQz9MPXfd6QoCLBGPKawd2JWRLrckAC8Ga/pubhtml?gid=75236321&single=true)

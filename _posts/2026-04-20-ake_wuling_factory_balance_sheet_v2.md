@@ -1,5 +1,5 @@
 ---
-title: "【AKE】武陵集成工業バランスシート_2026年4月17日アプデ対応版"
+title: "【Endfield】武陵集成工業バランスシート_2026年4月17日アプデ対応版"
 
 date: 2026-04-20 14:00:00 +0900
 categories: [Endfield, Factory]
@@ -20,7 +20,7 @@ description: 2026年4月17日のアップデートによる「緋銅」「重息
 
 今回作成した最新版の管理シートです。用途に応じて2つのシートを用意しました。
 
-[【AKE】武陵工業バランスシート (Googleスプレッドシート)](https://docs.google.com/spreadsheets/d/1uM7RA3VHW8NedKqD9Jq_LpCNkRqntrc_tk9U50l42gc/edit?usp=sharing)
+[【endfield】武陵工業バランスシート (Googleスプレッドシート)](https://docs.google.com/spreadsheets/d/1uM7RA3VHW8NedKqD9Jq_LpCNkRqntrc_tk9U50l42gc/edit?usp=sharing)
 
 - **武陵集成工業バランスシートNoEq_20260417版**: 
   装備部品を作らない場合のバランスシートです。
