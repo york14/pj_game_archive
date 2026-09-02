@@ -1,10 +1,12 @@
 ---
-layout: post
 title: "【FF14】アンビシャスルアー追加再抽選による期待値計算モデルと戦略の境界線"
 date: 2026-09-02 17:00:00 +0900
 categories: [FF14, 釣り]
 tags: [数値検証]
 math: true
+toc: true
+comments: true
+description: FF14の釣りでアンビシャスルアー（AL）を使用した再抽選戦略と初手AL3戦略の期待値を比較し、最適な戦略の境界線を数式で検証した結果。
 ---
 
 ## 概要と前提
